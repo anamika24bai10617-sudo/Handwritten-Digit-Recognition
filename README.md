@@ -89,7 +89,8 @@ Handwritten-Digit-Recognition/
 ├── README.md
 ├── requirements.txt
 ├── digit_recognition.py
-└── predict_digit.py
+├── predict_digit.py
+└── Handwritten_Digit_Recognition.ipynb
 ```
 ## ▶️ How to Run
 1. Install dependencies
