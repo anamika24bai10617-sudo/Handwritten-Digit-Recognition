@@ -90,3 +90,39 @@ Handwritten-Digit-Recognition/
 ├── requirements.txt
 ├── digit_recognition.py
 └── predict_digit.py
+```
+## ▶️ How to Run
+1. Install dependencies
+pip install -r requirements.txt
+2. Run the main program
+python digit_recognition.py
+3. Run the prediction program
+python predict_digit.py
+## 💻 Google Colab
+
+The project can also be executed using Google Colab.
+
+No external dataset download is required because the dataset
+is provided directly through Scikit-learn.
+
+## 📌 Results
+
+The model is evaluated using the test dataset.
+
+The actual accuracy and evaluation results are generated when
+the program is executed.
+
+## 📝 Conclusion
+
+This project demonstrates how Computer Vision and Machine
+Learning can be used to recognize handwritten digits.
+
+The KNN algorithm provides a simple approach to handwritten
+digit classification and is suitable for demonstrating the
+fundamental concepts of image classification.
+
+## 👩‍💻 Author
+
+ANAMIKA SINGH
+
+Computer Science and Engineering
